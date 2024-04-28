@@ -1,0 +1,53 @@
+
+
+.html{
+  background-color: linear-gradient(skyblue,lightgreen);
+}
+header{
+  background-color: #333;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  text-shadow: 0px 0px 5px yellow,0px -3px 0px red  ;
+}
+body{
+  background-color: ghostwhite;  font-family:press start 2p ,fantasy; font-style: oblique;
+ h1{border-style: " solid";  border-color: darkblue;text-align: center ; font-style:oblique; text-decoration-color: black;text-shadow: 0px 0px 5px yellow,0px -3px 0px red  ;}
+ h2{ color: blue; text-align: center;}}
+ #s0{ border: 0cap; border-radius: 10%; border-color: brown; text-align: center;}
+ #s1{
+   background-color: yellowgreen ; border-style: groove; border-radius:500 ;border-inline:500 ;margin: 10%; font-family: 'Times New Roman', Times, serif
+   ;}
+   ul {
+    list-style-type: none;
+    padding: 0;
+   }
+  li{
+    border-style: inset;
+    border: 5px solid greenyellow;
+    border-radius: 10%;
+    border: right 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+   #box1{
+    border:solid red;
+    margin-right:0px;
+    margin-left: auto;
+    padding-right:50px ;
+   }
+   .contact {
+     background-color: #ccc;
+     padding: 20px;}
+ 
+#s3{
+  background-color: #333;
+}
+ .pageswitch{
+  background-color: darkgrey;
+ }
+.ourproducts{
+  border:solid green;
+  background-color: blanchedalmond;
+  margin-top 50px;
+}
